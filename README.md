@@ -5,8 +5,8 @@
 This project is a weather data scraper developed in C# that displays its results in the console. When the project is run, it extracts the current temperature, weather conditions, and the city/state name from Chicago, IL off Weather.com. The application uses the HtmlAgilityPack library to parse HTML documents from the web, making HTTP requests to fetch the data. This project showcases my ability to programmatically obtain real-time data from the web using web scraping techniques, specifically by fetching current weather details with C#.
 
 # Features:
--	Retrieve specified weather conditions from Weather.com. Including current temperature, weather conditions (such as "Rain", "Sunny", "Cloudy", etc.) and the city name and state abbreviation. outputting both the.
--	Allows the user to easily view the fetched weather data directly in the console.
+-	Retrieve specified weather conditions from Weather.com, including current temperature, weather conditions (such as "Rain", "Sunny", "Cloudy", etc.) and the city name and state abbreviation. 
+-	Allows the user to easily view the fetched weather data directly in the console
 
 ## Technologies Used:
 -	C#
