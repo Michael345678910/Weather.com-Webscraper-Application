@@ -17,6 +17,11 @@ This project is a weather data scraper developed in C# that displays its results
 
 # File Pathway Tree/ File Directory:
 
+\Snake-Game-C-Sharp\
+| --- Program.cs\
+| --- WebScraperApp.csproj\
+| --- WebScraperApp.sln
+
 ## Installation & Setup:
 1.	Clone this repository to your local machine. This project was made using C# 12, thus ensure that is installed inside alongside a runnable IDE (Such as Visual Studio Community 2022).
 2.	If not already installed to your IDE, download and add HtmlAgilityPack to your project. This can be done via NuGet Package Manager (see instructions below):
