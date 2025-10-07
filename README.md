@@ -8,6 +8,11 @@ This project is a weather data scraper developed in C# that displays its results
 -	Retrieve specified weather conditions from Weather.com, including current temperature, weather conditions (such as "Rain", "Sunny", "Cloudy", etc.) and the city name and state abbreviation
 -	Allows the user to easily view the fetched weather data directly in the console
 
+# Current Finished Product Images:
+
+### Application Startup Screen 
+![Chicago Weather Web Scraper Results](ReadMe_File_Images/Web_Scraper_Results.png)
+
 ## Technologies Used:
 -	C#
 -	HtmlAgilityPack
